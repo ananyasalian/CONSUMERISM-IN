@@ -1,0 +1,380 @@
+.bad-con {
+  background-color: #547390;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bad-con .div {
+  background-color: #547390;
+  overflow: hidden;
+  border: 1px dashed;
+  border-color: #000000;
+  width: 1440px;
+  height: 1924px;
+  position: relative;
+}
+
+.bad-con .overlap {
+  position: absolute;
+  width: 1506px;
+  height: 605px;
+  top: 31px;
+  left: -38px;
+}
+
+.bad-con .rectangle {
+  position: absolute;
+  width: 928px;
+  height: 250px;
+  top: 47px;
+  left: 578px;
+  background-color: #3b556e;
+  border-radius: 23px;
+}
+
+.bad-con .rectangle-2 {
+  position: absolute;
+  width: 419px;
+  height: 217px;
+  top: 369px;
+  left: 82px;
+  background-color: #7b9cba;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.bad-con .rectangle-3 {
+  position: absolute;
+  width: 419px;
+  height: 217px;
+  top: 369px;
+  left: 964px;
+  background-color: #3b556e;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.bad-con .image {
+  width: 229px;
+  height: 326px;
+  top: 279px;
+  left: 792px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .img {
+  width: 221px;
+  height: 326px;
+  top: 260px;
+  left: 427px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .image-2 {
+  width: 229px;
+  height: 334px;
+  top: 260px;
+  left: 386px;
+  mix-blend-mode: darken;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .image-3 {
+  width: 237px;
+  height: 334px;
+  top: 260px;
+  left: 809px;
+  mix-blend-mode: hue;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .rectangle-4 {
+  position: absolute;
+  width: 928px;
+  height: 250px;
+  top: 0;
+  left: 0;
+  background-color: #547390;
+  border-radius: 23px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.bad-con .severe-physical {
+  position: absolute;
+  width: 296px;
+  top: 410px;
+  left: 1057px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.55px;
+  line-height: 36px;
+}
+
+.bad-con .societal-pressure {
+  position: absolute;
+  width: 241px;
+  top: 417px;
+  left: 111px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.55px;
+  line-height: 36px;
+}
+
+.bad-con .text-wrapper {
+  position: absolute;
+  width: 934px;
+  top: 41px;
+  left: 88px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.bad-con .congratulation-you {
+  position: absolute;
+  width: 933px;
+  top: 119px;
+  left: 126px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.bad-con .span {
+  font-weight: 300;
+}
+
+.bad-con .text-wrapper-2 {
+  font-weight: 800;
+}
+
+.bad-con .overlap-group {
+  position: absolute;
+  width: 663px;
+  height: 261px;
+  top: 704px;
+  left: 682px;
+}
+
+.bad-con .rectangle-5 {
+  position: absolute;
+  width: 419px;
+  height: 217px;
+  top: 0;
+  left: 244px;
+  background-color: #7c9cbb;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.bad-con .image-4 {
+  width: 335px;
+  height: 241px;
+  top: 0;
+  left: 38px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .image-5 {
+  width: 343px;
+  height: 249px;
+  top: 12px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .homogenization {
+  position: absolute;
+  width: 241px;
+  top: 61px;
+  left: 366px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.55px;
+  line-height: 36px;
+}
+
+.bad-con .overlap-2 {
+  position: absolute;
+  width: 570px;
+  height: 317px;
+  top: 636px;
+  left: 44px;
+}
+
+.bad-con .rectangle-6 {
+  position: absolute;
+  width: 419px;
+  height: 217px;
+  top: 68px;
+  left: 0;
+  background-color: #3b566e;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.bad-con .image-6 {
+  width: 220px;
+  height: 309px;
+  top: 0;
+  left: 309px;
+  mix-blend-mode: saturation;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .image-7 {
+  width: 220px;
+  height: 309px;
+  top: 0;
+  left: 346px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .image-8 {
+  width: 228px;
+  height: 317px;
+  top: 0;
+  left: 342px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .text-wrapper-3 {
+  position: absolute;
+  width: 241px;
+  top: 127px;
+  left: 6px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.55px;
+  line-height: 36px;
+}
+
+.bad-con .group {
+  position: absolute;
+  width: 1559px;
+  height: 901px;
+  top: 967px;
+  left: 0;
+}
+
+.bad-con .overlap-group-2 {
+  position: relative;
+  width: 1555px;
+  height: 901px;
+}
+
+.bad-con .rectangle-7 {
+  position: absolute;
+  width: 1445px;
+  height: 419px;
+  top: 20px;
+  left: 23px;
+  background-color: #7b9cbaa8;
+  border-radius: 76px;
+  mix-blend-mode: screen;
+}
+
+.bad-con .ellipse {
+  position: absolute;
+  width: 893px;
+  height: 74px;
+  top: 743px;
+  left: 0;
+  background-color: #3b556e;
+  border-radius: 446.5px/37px;
+}
+
+.bad-con .image-9 {
+  width: 893px;
+  height: 802px;
+  top: 0;
+  left: 23px;
+  mix-blend-mode: darken;
+  position: absolute;
+  object-fit: cover;
+}
+
+.bad-con .rectangle-8 {
+  position: absolute;
+  width: 1367px;
+  height: 419px;
+  top: 199px;
+  left: 188px;
+  background-color: #35405c;
+  border-radius: 76px;
+  mix-blend-mode: darken;
+}
+
+.bad-con .p {
+  position: absolute;
+  width: 974px;
+  top: 312px;
+  left: 406px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.bad-con .text-wrapper-4 {
+  position: absolute;
+  width: 389px;
+  top: 837px;
+  left: 242px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.55px;
+  line-height: 36px;
+}
+.find-out-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 323px;
+  height: 99PX;
+  top: 802px;
+  left: 143px;
+  background-color: #7b9cba;
+  border-radius: 35px;
+  color: #ffffff;
+  
+ 
+}
+
+
+.find-out-link:hover {
+  background-color: rgb(47, 26, 111);
+}
